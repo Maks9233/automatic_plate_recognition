@@ -6,7 +6,7 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/yourusername/automatic_plate_recognition.git
+   git clone https://github.com/Maks9233/automatic_plate_recognition.git
    cd automatic_plate_recognition
    ```
 
